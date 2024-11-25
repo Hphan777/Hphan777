@@ -1,9 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm Hau,+a+junior+at+Smith+College,+majoring+in+computer+science+and+statistical+and+data+science.)](https://git.io/typing-svg)
-<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1356A4&width=450&height=80&lines=Hi!+I'm+Hau)](https://git.io/typing-svg)
 
-
-Person image.png	
-A concise, yet compelling “About Me” - At or near the very top of your profile, mention your name, what you do, and your main areas of interest or expertise in technology. This section sets the tone and gives a personal touch to your profile. 
+ A bout me:
+ - 
 
 Tools image.png	
 Your Tech Stack (i.e. languages, tools etc.) - List the technologies, programming languages, tools, and frameworks you are proficient in. This can be formatted as a list or presented visually using badges or icons to make it more engaging. 
@@ -35,9 +33,8 @@ Your Contact Information - Provide ways for people to reach you. This could incl
 
 
 
-```
-![Visitor Count](https : //profile-counter.glitch.me/{Hphan777}/count.svg)
-```
+
+
 
 
 <!--
