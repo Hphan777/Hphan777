@@ -16,7 +16,7 @@ index and integrate the model to the chatbot.<br>
 
 **Tools:** Scikit-learn, Pandas, Microsoft Plantery Computer, NumPy, Matplotlib
 
-## Extracurrilar 
+## Extracurricular 
 • Girls Who Code College Loop, *Treasurer* 
 
 ## Hobbies and/or Interests 
